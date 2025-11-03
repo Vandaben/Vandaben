@@ -35,9 +35,8 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vandaben&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
-![Snake animation](https://raw.githubusercontent.com/Vandaben/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=faab0c"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0072FF"  />
 
 
 </div>
