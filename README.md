@@ -23,7 +23,7 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
 
 <hr>
 
-## Community
+### Community
 <p><a href="https://discord.gg/r72nuKsPDw">
   <img src="https://img.shields.io/discord/1303724912497786942?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
