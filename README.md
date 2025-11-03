@@ -30,7 +30,7 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
 
 <hr>
 
-# Stats
+### Stats
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vandaben&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
