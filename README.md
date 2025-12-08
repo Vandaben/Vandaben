@@ -28,11 +28,6 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
   <img src="https://img.shields.io/discord/1303724912497786942?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
 
-<hr>
-
-### Stats
-
-
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0072FF"  />
 
