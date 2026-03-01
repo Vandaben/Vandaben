@@ -15,7 +15,7 @@ I'm specialized in creation of **GTA V (FiveM)** scripts.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://camo.githubusercontent.com/be76fff677759e88d9033777bc598a8ccd34277d80eb92931a6b90227231b5e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="42" />
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord.js&logoColor=white)
 
